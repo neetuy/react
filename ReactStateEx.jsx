@@ -3,7 +3,6 @@ import React from 'react';
 class ReactStateEx extends React.Component {
    constructor() {
       super();
-		
       this.state = {
          txt: "Header from state...",
          
